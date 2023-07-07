@@ -1,4 +1,4 @@
-ul {
+/* ul {
     display: block;
     list-style-type: disc;
     margin-block-start: 0em;
@@ -6,37 +6,36 @@ ul {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     padding-inline-start: 0px;
-}
+} */
 
 
-.body_content {
+/* .body {
     background-color: #2A2C2F;
-    /*width: 100px;*/
     height: 100px;
-}
+} */
 
-.header_logo {
+/* .header_logo {
     background-image: url(./img/logo.svg);
     width: 176px;
     height: 52px;
     background-size: 176px 52px;
-}
+} */
 
-.header_leng {
+/* .header_leng {
     color: aliceblue;
-}
+} */
 
-.header {
+/* .header {
     display: flex;
     justify-content: space-between;
-}
+} */
 
-.page {
+/* .page {
     max-width: 1280px;
     min-width: 320px;
     margin: 20px;
 
-}
+} */
 
 .headline {
     font-family: Inter;
@@ -49,14 +48,14 @@ ul {
 
 }
 
-.lead {
+/* .lead {
     width: 984px;
     margin: 0 auto;
 
-}
+} */
 
-.lead-title {
-    /*font-family: Inter;*/
+/* .lead__title {
+    /*font-family: Inter;
     font-size: 96px;
     font-weight: 900;
     line-height: 100px;
@@ -64,10 +63,10 @@ ul {
     text-align: center;
     color: white;
 
-}
+} */
 
-.lead-subtitle {
-    /*font-family: Inter;*/
+/* .lead-subtitle {
+    font-family: Inter;
     font-size: 30px;
     font-weight: 400px;
     line-height: 36px;
@@ -75,28 +74,28 @@ ul {
     text-align: center;
     color: white;
 
-}
+} */
 
-.lead-image {
+/* .lead-image {
     width: 984px height: 615px top: 504px left: 148px
-}
+} */
 
-.lead-capshion {
-    /*font-family: Inter;*/
+/* .lead-capshion {
+    font-family: Inter;
     font-size: 10px;
     font-weight: 400;
     line-height: 14px;
     letter-spacing: 1.5px;
     text-align: left;
     color: white;
-}
+} */
 
-.intro {
+/* .intro {
     width: 690px;
     margin: 92px auto 0px 148px;
-}
+} */
 
-.intro-title {
+/* .intro-title {
 font-size: 54px;
 font-weight: 900;
 line-height: 58px;
@@ -104,9 +103,9 @@ letter-spacing: 0em;
 text-align: left;
 color: white;
 
-}
+} */
 
-.intro-text {
+/* .intro-text {
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
@@ -114,16 +113,16 @@ letter-spacing: 0em;
 text-align: left;
 color: white;
 
-}
+} */
 
-.intro-list {
+/* .intro-list {
     list-style-type: none;
-}
-.intro-list-item {
+} */
+/* .intro-list-item {
 font-size: 12px;
 font-weight: 400;
 line-height: 18px;
 letter-spacing: 0em;
 text-align: left;
 color: white;
-}
+} */
