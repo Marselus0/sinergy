@@ -7,4 +7,7 @@
     line-height: 29px;
     letter-spacing: 0em;
     gap: 30px;
+    align-items: center;
+    justify-content: space-evenly;
+
     }
