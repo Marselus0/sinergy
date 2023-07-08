@@ -23,6 +23,13 @@
   body {
     margin: 0;
   }
+
+  h1, h2, h3 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+  }
   
   /**
    * Render the `main` element consistently in IE.
