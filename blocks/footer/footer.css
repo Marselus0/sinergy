@@ -1,0 +1,8 @@
+.footer {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    width: 984px;
+    color: white;
+    margin-top: -80px;
+}

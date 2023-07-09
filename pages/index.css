@@ -32,5 +32,11 @@
 @import url(../blocks/places/place__paragraph/place__paragraph.css);
 @import url(../blocks/places/place__paragraph/place__paragraph.css);
 
+@import url(../blocks/linc/linc.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__linc/footer__linc.css);
+
 
 
