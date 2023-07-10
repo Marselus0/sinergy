@@ -1,4 +1,10 @@
 .foto-grid__item {
-    width: 984px;
-    margin: 92px 0;
+    margin: 16px auto 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 284px;
+    height: 213px;
+    position: relative;
+    max-width: 100%;
+    max-height: 100%
 }

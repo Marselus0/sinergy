@@ -9,5 +9,7 @@
     gap: 80px;
     align-items: center;
     justify-content: space-evenly;
+    justify-content: flex-end;
+    max-width: 984px;
 
     }
