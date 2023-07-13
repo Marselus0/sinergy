@@ -2,5 +2,6 @@
     display: flex;
     justify-content: space-between;
     background-color: rgba(42, 44, 47, 1);
-    width: 984px;
+    max-width:1184px;
+    width: 100%;
 }

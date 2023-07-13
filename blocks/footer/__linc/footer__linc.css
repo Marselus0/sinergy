@@ -10,5 +10,6 @@
     margin: 92px 48px 0;
     list-style-type: none;
     display: flex;
+    max-width: 1148px;
 
 }
