@@ -1,10 +1,6 @@
 .foto-grid {
-    width: 984px;
-    /* height: 671px;
-    top: 1754px;
-    left: 48px; */
+    width: 1184px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 16px;
-    padding: 92px 48px;
 }

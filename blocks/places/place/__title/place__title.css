@@ -1,11 +1,6 @@
 .place__title {
-    font-family: Inter;
     font-size: 72px;
-    font-weight: 900;
     line-height: 76px;
-    letter-spacing: 0em;
     text-align: left;
     color: white;
-    max-width: 460px;
-    margin: 148px auto;
 }

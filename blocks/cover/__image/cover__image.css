@@ -1,0 +1,7 @@
+.cover__image {
+    background-image: url(../../../img/__background.png);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    position: absolute;
+}
