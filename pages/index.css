@@ -35,7 +35,7 @@
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-@import url(../blocks/footer/__linc/footer__link.css);
+@import url(../blocks/footer/__link/footer__link.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__image/cover__image.css);
